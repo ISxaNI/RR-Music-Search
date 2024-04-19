@@ -60,5 +60,3 @@ function GalleryItem(props){
 }
 
 export default GalleryItem
-
-export default GalleryItem
