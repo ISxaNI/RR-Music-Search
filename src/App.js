@@ -2,7 +2,7 @@ import './App.css';
 import { useEffect, useState } from 'react'
 import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom'
 import Gallery from './components/Gallery'
-import SearchBar from './components/SearchBar'
+import SearchBar from './components/Searchbar.js'
 import AlbumView from './components/AlbumView'
 import ArtistView from './components/ArtistView'
 
